@@ -1,5 +1,5 @@
 "require_relative '../config/environment.rb'
-require_'pry'
+require_pry
 
 
 def reload
