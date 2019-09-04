@@ -1,5 +1,5 @@
 class Student
-  attr_reader :student, :first_name
+  attr_reader :first_name
 
   @@all = []
   
