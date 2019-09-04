@@ -1,6 +1,5 @@
 class Student
   attr_reader :first_name
-
   @@all = []
   
   def initialize(first_name)
